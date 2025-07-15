@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.thomastaguchi.workshopmongo.domain.Post;
-import com.thomastaguchi.workshopmongo.domain.Post;
 import com.thomastaguchi.workshopmongo.domain.User;
 import com.thomastaguchi.workshopmongo.dto.UserDTO;
 import com.thomastaguchi.workshopmongo.service.UserService;
